@@ -137,6 +137,7 @@
 - [Hyperproof](https://hyperproof.io/) - Compliance operations with automation for evidence collection and control mapping.
 - [ComplyACT AI](https://complyactai.com/blog/software-for-compliance-management) - Auto-classifies AI systems, generates audit-ready Annex IV documentation, and provides continuous monitoring.
 - [AI Disclosure Kit](https://disclosekit.com) - Generates Article 50 disclosure templates for AI transparency notices.
+- [eucomplyhub](https://eucomplyhub.com) - Free interactive audit tools (Annex III classifier, GPAI Article 53, Article 50, ISO/IEC 42001:2023 crosswalk, penalty calculator) for mid-market SaaS deployers preparing for Aug 2 2026 enforcement.
 ---
 
 ## Open-Source Projects
@@ -150,6 +151,7 @@
 - [MCP EU AI Act Scanner](https://github.com/ark-forge/mcp-eu-ai-act) - Scans codebases for EU AI Act and GDPR compliance gaps and generates auditor-ready Annex IV evidence packages.
 - [EU AI Act Compliance Checker](https://github.com/ARQNXS/eu-ai-act-compliance-checker) - Interactive web-based questionnaire for assessing compliance and generating reports.
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
+- [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) - MCP server for EU AI Act compliance with multi-jurisdiction risk classifier and Annex III deep analyzer, exposing tools that LLMs can call directly to classify products against Annex III §1-§8 and Article 50 obligations.
 
 ### Reference Implementations
 
