@@ -23,6 +23,12 @@ Keep descriptions concise (under 100 characters) and factual — no marketing la
 - Working links (we run automated link checks)
 - Not already listed
 
+## Project maturity
+
+New or low-adoption projects may be declined until they show enough maturity or independent usefulness. Signals include a stable release, package availability, tests or CI, useful documentation, examples or sample output, active maintenance, external usage, citations, or meaningful community adoption.
+
+GitHub stars may be considered as one signal, but there is no hard star-count requirement. Brand-new or self-submitted projects should include evidence that the resource is useful beyond the initial release.
+
 ## What does not belong here
 
 - Resources unrelated to EU AI Act or AI governance
